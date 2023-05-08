@@ -1,0 +1,65 @@
+.menu .menuler{
+    border-radius: 10px;
+    text-align: center;
+    margin: 5% 10%;
+    padding: 15px;
+    display: inline-block;}
+  
+  
+  .menubar {
+    text-align: center;
+  }
+
+
+  .first-photo {
+    height: 200px;
+    size: 50px;
+    width: 200px;
+    border-radius: 100%;
+    margin-left: 80px;
+  }
+
+  #header-baslik {
+   text-align: center;
+  }
+
+  *{font-family: 'Chelsea Market', cursive;}
+
+  .first-paragraph {
+    margin-top: 160px;
+  }
+
+  .second-paragraph {
+    width: 90%;
+    background-color: #DDB9A3;
+    color: #ffff;
+    text-align: center;
+   margin-left: 5%;
+  }
+
+  .img-with-paragraph {
+
+    display: inline-flex;
+  }
+
+  .hotballon-part {
+    text-align: center;
+    width: 20%;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 50px;
+  }
+
+
+  .menu-2 .menuler-2 {
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+    display: inline-block;
+  }
+
+  .menubar .menu-2 {
+    display: flex;
+    padding-top: 2%;
+  }
